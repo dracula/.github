@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://draculatheme.com/static/icons/used/pack-1/045-dracula.svg" width="100" alt="Logo"/>
+	<img src="https://draculatheme.com/images/hero/dracula-icon.svg" width="100" alt="Logo"/>
     <br/>
 	Dracula Theme
 </h3>
