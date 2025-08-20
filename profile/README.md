@@ -15,7 +15,7 @@
 </h6>
 
 <p align="center">
-  The most famous <b>dark theme</b> ever created and <b>available everywhere.</b> 🦇
+  The most famous <b>dark/light theme</b> ever created and <b>available everywhere.</b> 🦇
 </p>
 
 <hr/>
