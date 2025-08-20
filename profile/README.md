@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://draculatheme.com/images/hero/dracula-icon.svg" width="100" alt="Logo"/>
+	<img src="https://draculatheme.com/images/hero/default.svg" width="100" alt="Logo"/>
     <br/>
 	Dracula Theme
 </h3>
@@ -9,9 +9,7 @@
   ·
   <a href="https://draculatheme.com/blog">📰 Blog</a>
   ·
-  <a href="https://draculatheme.com/pro">😎 PRO</a>
-  ·
-  <a href="https://ui.draculatheme.com">🧱 UI</a>
+  <a href="https://draculatheme.com/pro">⚡ PRO</a>
   ·
   <a href="https://draculatheme.com/shop">👕 Shop</a>
 </h6>
@@ -22,11 +20,11 @@
 
 <hr/>
 
-The Dracula Theme was created to **minimize context-switching**, helping you with **optimal focus and readability** for code syntax highlighting and, more recently, UI components.
+The Dracula Theme was created to **minimise context-switching**, helping you with **optimal focus and readability** for code syntax highlighting and, more recently, UI components.
 
 🪴 Join us on this quest to create the best cross-platform theme there.
 
-> This organization tracks the development of all themes, features, and code samples created and active for maintainers/developers.
+> This organisation tracks the development of all themes, features, and code samples created and active for maintainers/developers.
 
 #### Useful links
 
