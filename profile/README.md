@@ -34,6 +34,4 @@ The Dracula Theme was created to **minimize context-switching**, helping you ach
 - 🐛 Report bugs on the theme's [**GitHub issues**](https://github.com/dracula)
 - ✨ Discover how to [**create a new theme**](https://draculatheme.com/contribute) using the official color palette
 
-## Dracula PRO
-
 [![Dracula PRO](../dracula-pro.png)](https://draculatheme.com/pro)
